@@ -1,0 +1,45 @@
+hr
+{
+	 background-color:black;
+	 height: 10px;
+	 width:100%;
+}
+.travel_mainDiv
+{
+	border: 20px dotted crimson;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none;
+}
+.travel_mainDiv img
+{
+	width: 100%;
+}
+.movie_head 
+{
+	font-size: 20px; padding: 6px 22px; border-radius: 10px; margin-bottom: 15px; width: 100%; display: inline-block; 
+}
+.movie_head i 
+{ 
+	float: right; 
+} 
+.movie_text span 
+{ 
+	color: #ff7700; 
+}
+html
+{
+	scroll-behavior: smooth;
+}
+.environment_li
+{
+	margin-top: 15px;
+}
+iframe
+{
+	width: 100%;
+}
+.contact_1 h3
+{
+	display: inline;
+}
